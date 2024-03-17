@@ -1,6 +1,6 @@
 {
     "name": "burngbg-bot",
-    "version": "2.0.12",
+    "version": "2.0.13",
     "description": "With this bot you can remove background from any picture",
     "main": "index.js",
     "scripts": {
@@ -15,9 +15,9 @@
     "license": "MIT",
     "dependencies": {
         "@ardianreiss/add-watermark": "1.0.20",
+        "@ardianreiss/simple-evm-faucet": "1.0.0",
         "axios": "^0.24.0",
         "byte-size": "^8.1.0",
-        "@ardianreiss/simple-evm-faucet": "1.0.0",
         "form-data": "^4.0.0",
         "moment": "^2.29.1",
         "mongoose": "^5.13.4",
