@@ -1,6 +1,10 @@
 {
     "name": "burngbg-bot",
-    "version": "2.0.13",
+    "version": "2.0.14",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/godekggs/burnbg-bot.git"
+    },
     "description": "With this bot you can remove background from any picture",
     "main": "index.js",
     "scripts": {
